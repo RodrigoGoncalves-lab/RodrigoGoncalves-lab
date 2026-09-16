@@ -2,7 +2,7 @@
 
 Sou desenvolvedor fullstack no setor de **Inovação** da [Connect Telecom](https://grupoconnectba.com.br/)
 Construo microsserviços com integração de IA para os produtos internos do grupo
-Curso Análise e Desenvolvimento de Sistemas (ADS) — Uninter/EaD
+
 
 ---
 
@@ -40,7 +40,6 @@ Curso Análise e Desenvolvimento de Sistemas (ADS) — Uninter/EaD
 ## 🧑‍💻 Perfil
 
 - Desenvolvedor fullstack no setor de **Inovação** da **Connect Telecom**, com base forte em **TypeScript, Node.js e React**.
-- Curso **ADS** (Uninter/EaD) em paralelo ao trabalho.
 - Baseado na região de **Caculé, Bahia**.
 - Uso **Claude Code** diariamente na IDE como ferramenta principal de desenvolvimento.
 
